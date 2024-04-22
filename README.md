@@ -1,4 +1,4 @@
-# About Me: Passionate about hacking business value with whatever is at hand. Equal parts data geek and creative.
+# About Me
 
 As an experienced data professional grounded in analytics, economics, and business administration, I excel at turning complex data into actionable insights. My strength lies in designing data solutions that not only support but enhance strategic decision-making. I also thrive as a trailblazer, initiating data-driven processes that establish robust, scalable systems.
 
