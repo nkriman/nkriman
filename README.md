@@ -29,7 +29,7 @@ In my project to create an search functionality for Chile's "Diario Oficial", I 
 <tr>
     <td width="50%">
         <strong>Early Prediction of Student Success: A Comparison of Statistical Methods for Multiclass Classification</strong><br>
-        Following the form of the original authors’, we computed the F1 score and accuracy for the various modeling techniques: multinomial logistic regression with lasso, decision trees, XGBoost (both 1.0 and 2.0), bagging trees, random forests, and two-variable logistic regression. Random forests and two-variable logistic regression were run on one-hot encoded datasets that included the original dataset as well as datasets that were “boosted” using both SMOTENC and AdaSyn.  The F1 scores of our models were generally much higher than those of the original paper.
+        For this academic project, my main contribution was in data preparation, data imbalance treatment and algorithm fine-tuning. Following the form of the original authors’, we computed the F1 score and accuracy for the various modeling techniques: multinomial logistic regression with lasso, decision trees, XGBoost (both 1.0 and 2.0), bagging trees, random forests, and two-variable logistic regression. Random forests and two-variable logistic regression were run on one-hot encoded datasets that included the original dataset as well as datasets that were “boosted” using both SMOTENC and AdaSyn.  The F1 scores of our models were generally much higher than those of the original paper.
         <br><br>
         <a></a>
     </td>
