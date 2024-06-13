@@ -53,19 +53,6 @@ In my project to create an search functionality for Chile's "Diario Oficial", I 
 
 
 
-## Core Competencies 🔥
-
-- **Data Analysis & Insights**: Proficient in using SQL and Python to analyze data, I provide actionable insights that inform strategic decisions.
-- **Machine Learning & Prototyping**: I build prototypes to explore new applications for machine learning.
-- **Model Enhancement & Experimentation**: I continually experiment with and refine existing ML models, optimizing performance and ensuring they adapt to new challenges and data.
-- **Data Engineering**: Skilled in creating robust data pipelines with tools like GCP, BigQuery, and DBT, I ensure seamless data integration and accessibility.
-- **Visualization & Communication**: Using Looker and DataStudio, I craft compelling visual stories that make complex results accessible to stakeholders across the business spectrum.
-
-## Distinctive Approach 🚀
-
-What sets me apart is my ability to bridge the gap between technical mastery and strategic thinking. With a solid grounding in economics, business administration, and advanced analytics, I approach data challenges through a multidimensional lens, combining quantitative rigor with a deep understanding of real-world business implications. I address data challenges with quantitative precision while considering the broader business context, making complex concepts accessible to non-technical stakeholders.
-
-
 
 ## Collaboration and Contact 🤝
 
